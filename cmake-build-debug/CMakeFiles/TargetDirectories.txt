@@ -1,0 +1,3 @@
+C:/Users/Francisco/CLionProjects/flujoC++/cmake-build-debug/CMakeFiles/flujoC__.dir
+C:/Users/Francisco/CLionProjects/flujoC++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Francisco/CLionProjects/flujoC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
