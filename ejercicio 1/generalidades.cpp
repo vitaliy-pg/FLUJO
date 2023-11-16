@@ -1,8 +1,6 @@
-Generalidades
-
-        Crea un nuevo proyecto en CLion y añade un archivo main.cpp. Escribe el siguiente código:
 
 #include <iostream>
+using namespace std;
 
 int main() {
     int num;
@@ -11,3 +9,5 @@ int main() {
     std::cout << "El número ingresado es: " << num << std::endl;
     return 0;
 }
+
+
