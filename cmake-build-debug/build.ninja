@@ -49,11 +49,23 @@ cmake_ninja_workdir = C$:/Users/Francisco/CLionProjects/flujoC++/cmake-build-deb
 
 build cmake_object_order_depends_target_flujoC__: phony || CMakeFiles/flujoC__.dir
 
-build CMakeFiles/flujoC__.dir/main.cpp.obj: CXX_COMPILER__flujoC___unscanned_Debug C$:/Users/Francisco/CLionProjects/flujoC++/main.cpp || cmake_object_order_depends_target_flujoC__
-  DEP_FILE = CMakeFiles\flujoC__.dir\main.cpp.obj.d
+build CMakeFiles/flujoC__.dir/Ejercicio_3/main.cpp.obj: CXX_COMPILER__flujoC___unscanned_Debug C$:/Users/Francisco/CLionProjects/flujoC++/Ejercicio$ 3/main.cpp || cmake_object_order_depends_target_flujoC__
+  DEP_FILE = CMakeFiles\flujoC__.dir\Ejercicio_3\main.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\flujoC__.dir
-  OBJECT_FILE_DIR = CMakeFiles\flujoC__.dir
+  OBJECT_FILE_DIR = CMakeFiles\flujoC__.dir\Ejercicio_3
+
+build CMakeFiles/flujoC__.dir/Ejercicio_4/main2.cpp.obj: CXX_COMPILER__flujoC___unscanned_Debug C$:/Users/Francisco/CLionProjects/flujoC++/Ejercicio$ 4/main2.cpp || cmake_object_order_depends_target_flujoC__
+  DEP_FILE = CMakeFiles\flujoC__.dir\Ejercicio_4\main2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\flujoC__.dir
+  OBJECT_FILE_DIR = CMakeFiles\flujoC__.dir\Ejercicio_4
+
+build CMakeFiles/flujoC__.dir/Ejercicio_5/main3.cpp.obj: CXX_COMPILER__flujoC___unscanned_Debug C$:/Users/Francisco/CLionProjects/flujoC++/Ejercicio$ 5/main3.cpp || cmake_object_order_depends_target_flujoC__
+  DEP_FILE = CMakeFiles\flujoC__.dir\Ejercicio_5\main3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\flujoC__.dir
+  OBJECT_FILE_DIR = CMakeFiles\flujoC__.dir\Ejercicio_5
 
 
 # =============================================================================
@@ -63,7 +75,7 @@ build CMakeFiles/flujoC__.dir/main.cpp.obj: CXX_COMPILER__flujoC___unscanned_Deb
 #############################################
 # Link the executable flujoC__.exe
 
-build flujoC__.exe: CXX_EXECUTABLE_LINKER__flujoC___Debug CMakeFiles/flujoC__.dir/main.cpp.obj
+build flujoC__.exe: CXX_EXECUTABLE_LINKER__flujoC___Debug CMakeFiles/flujoC__.dir/Ejercicio_3/main.cpp.obj CMakeFiles/flujoC__.dir/Ejercicio_4/main2.cpp.obj CMakeFiles/flujoC__.dir/Ejercicio_5/main3.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\flujoC__.dir

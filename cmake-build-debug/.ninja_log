@@ -1,8 +1,6 @@
 # ninja log v5
-2	1034	7218385177060122	CMakeFiles/flujoC__.dir/main.cpp.obj	312780ea8ffab17
-602	782	7218385520942066	flujoC__.exe	ba3b6379595a96e7
-16	707	7218386390770382	build.ninja	6786f1564d5742bc
-0	601	7218385519180551	CMakeFiles/flujoC__.dir/Ejercicio_3/main.cpp.obj	62e91b502177dd8a
-7	775	7218386390770382	build.ninja	6786f1564d5742bc
 2	776	7218386401473993	CMakeFiles/flujoC__.dir/main.cpp.obj	312780ea8ffab17
-779	1251	7218386406031504	flujoC__.exe	dedc885759f5b623
+125	394	7218393765401287	flujoC__.exe	7570ededf09b573
+6	633	7218394589780452	build.ninja	6786f1564d5742bc
+0	601	7218385519180551	CMakeFiles/flujoC__.dir/Ejercicio_3/main.cpp.obj	62e91b502177dd8a
+9	123	7218393762737737	CMakeFiles/flujoC__.dir/Ejercicio_4/main2.cpp.obj	142e80c2eb5e0b58
