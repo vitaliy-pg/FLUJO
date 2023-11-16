@@ -3,4 +3,4 @@ project(flujoC__)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(flujoC__ main.cpp)
+add_executable(flujoC__ "Ejercicio 3/main.cpp")
